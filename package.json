@@ -1,0 +1,19 @@
+{
+  "name": "buylight",
+  "version": "1.0.0",
+  "description": "this is a basic store replacment site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenerStudent/buystuff.git"
+  },
+  "author": "Blake Davison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenerStudent/buystuff/issues"
+  },
+  "homepage": "https://github.com/GenerStudent/buystuff#readme"
+}
