@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GenerStudent/buystuff/issues"
   },
-  "homepage": "https://github.com/GenerStudent/buystuff#readme"
+  "homepage": "https://github.com/GenerStudent/buystuff#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
